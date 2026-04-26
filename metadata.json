@@ -1,0 +1,6 @@
+{
+  "name": "Student Risk Predictor",
+  "description": "An early warning system that predicts student exam failure risk based on study habits, attendance, and lifestyle factors using machine learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
